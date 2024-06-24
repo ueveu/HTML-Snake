@@ -49,7 +49,7 @@ open index.html
 
 ## Contributing
 
-Feel free to fork this repo and make it your own! Add colors, change the speed, bla! :)
+Feel free to fork this repo and make it your own! Add colors, change the speed, do whatever!
 
 1. Fork the repository
 2. Create a new branch (`git checkout -b feature/amazing-feature`)
@@ -59,7 +59,7 @@ Feel free to fork this repo and make it your own! Add colors, change the speed, 
 6. Open a Pull Request
 
 ## License
-This project is under the MIT License. In human terms: it's free, have fun with it, do whatever!
+This project is under the MIT License. In human terms: it's free, have fun with it! :)
 
 ## Acknowledgements
 
