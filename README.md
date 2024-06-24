@@ -1,6 +1,8 @@
 🐍 Snake Game 
 
 A simple, classic Snake game implemented in HTML, JavaScript, and CSS. This project provides a browser-based version of the popular game where players control a snake to eat food and grow longer, while avoiding collisions with the walls and the snake's own body.
+
+
 ![image](https://github.com/ueveu/Snake.html/assets/159266114/974f525a-9291-4501-b826-63693617d6ba)
 
 ## Features
